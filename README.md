@@ -10,6 +10,7 @@ There are three main paradigms in recommender systems
 
 
 In Collaborative Filtering, there are two main types:
+
 1. User-based collaborative filtering
 
   a. Find users who have same rating pattern with the user of interest.
